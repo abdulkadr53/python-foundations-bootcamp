@@ -8,13 +8,11 @@ This repository contains my solution for three Level of tasks Python programs th
 Jupyter Notebook with all three tasks completed
 
 Task-1-Bootcamp/
-│
-├── factorial.py              # Computes the factorial of a number
-├── vowel_counter.py          # Counts the number of vowels in a string
-├── calculator.py             # CLI-based calculator using functions
-│
-├── README.md                 # Brief description of all implementations
-└── requirements.txt 
+ │
+ ├── factorial.py               # Computes the factorial of a number
+ ├──vowel_counter.py      # Counts the number of vowels in a string
+ ├──calculator.py              # CLI-based calculator using functions
+ ├──README.md              # brief description of all implementation
 
 
 ---
@@ -70,13 +68,3 @@ A command‑line calculator that performs addition, subtraction, multiplication,
 Created by Abdulkadr for bootcamp Task 1 submission.
 
 -----------
-
-
-
-
-
-
-
-
-python vowel_counter.py
-python calculator.py
