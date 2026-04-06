@@ -13,12 +13,14 @@ These demonstrate core programming concepts such as functions, loops, conditiona
 ## Repository Structure
 Jupyter Notebook with all three tasks completed
 
-task-1/
-  - factorial.py                 # Computes the factorial of a number
-  - vowel_counter.py       # Counts the number of vowels in a string
-  - calculator.py               # CLI-based calculator using functions
-- README.md               # brief description of all implementation
-
+```
+python-foundations-bootcamp/
+   |---task-1/
+   |     |--factorial.py                 # Computes the factorial of a number
+   |     |--vowel_counter.py             # Counts the number of vowels in a string
+   |     |--calculator.py                # CLI-based calculator using functions
+   |---README.md                         # brief description of all implementation
+```
 
 ---
 
