@@ -1,18 +1,23 @@
+
 # Task 1 – Python Foundations
 
-This repository contains my solution for three Level of tasks Python programs that demonstrate core programming concepts such as functions, loops, conditionals, and user input/output. Each script is designed to be run from the command line and showcases practical problem‑solving.
+This repository contains my solution for three Level of tasks Python programs:
+- Factorial Calculator
+- Vowel Counter
+- CLI Calculator
+
+These demonstrate core programming concepts such as functions, loops, conditionals, and user input/output. Each script is designed to be run from the command line and showcases practical problem‑solving.
 
 ---
 
 ## Repository Structure
 Jupyter Notebook with all three tasks completed
 
-Task-1-Bootcamp/
- │
- ├── factorial.py               # Computes the factorial of a number
- ├──vowel_counter.py      # Counts the number of vowels in a string
- ├──calculator.py              # CLI-based calculator using functions
- ├──README.md              # brief description of all implementation
+task-1/
+  - factorial.py                 # Computes the factorial of a number
+  - vowel_counter.py       # Counts the number of vowels in a string
+  - calculator.py               # CLI-based calculator using functions
+- README.md               # brief description of all implementation
 
 
 ---
@@ -65,6 +70,4 @@ A command‑line calculator that performs addition, subtraction, multiplication,
 
 ----------
 ## Author
-Created by Abdulkadr for bootcamp Task 1 submission.
-
------------
+Abdulkadr  Heyredin for CSE-Data Science Task 1 submission.
